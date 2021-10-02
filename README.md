@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit-pn
-- 👀 I’m interested in contributation of python and javascript related projects.
+- 👀 I’m interested in python and javascript related projects.
 - 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on python projects.
 
