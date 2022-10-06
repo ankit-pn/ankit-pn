@@ -1,4 +1,4 @@
-## Hi,  I'm Devansh Kapri!
+## Hi,  I'm Ankit Kumar!
 ### 🎓 A CSE Undergraduate at MANIT Bhopal
 ![profile count](https://komarev.com/ghpvc/?username=ankit-pn&color=green)&nbsp;
 
