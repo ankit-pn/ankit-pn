@@ -2,7 +2,7 @@
 ### 🎓 A CSE Undergraduate at MANIT Bhopal
 ![profile count](https://komarev.com/ghpvc/?username=ankit-pn&color=green)&nbsp;
 
-<p align="left"> <a href="https://twitter.com/see_you_in_past" target="blank"><img src="https://img.shields.io/twitter/follow/see_you_in_past?logo=twitter&style=for-the-badge" alt="see_you_in_past" /></a> </p>
+<p align="left"> <a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
