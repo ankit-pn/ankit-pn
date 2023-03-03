@@ -15,8 +15,7 @@
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:IDEA](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=VisualStudio)](https://visualstudio.microsoft.com)
 
-  [![email](https://img.shields.io/badge/Email-ahujadivyam@gmail.com-red?style=flat-square&logo=gmail)](mailto:ahujadivyam@gmail.com)
-  [![Gist.GitHub:DivyamAhuja](https://img.shields.io/badge/Gist-DivyamAhuja-black?style=flat-square&logo=GitHub)](https://gist.github.com/DivyamAhuja)
+  [![email](https://img.shields.io/badge/Email-miankitsingh@gmail.com-red?style=flat-square&logo=gmail)](mailto:miankitsingh@gmail.com)
 
 <a href="https://www.leetcode.com/lcbypain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lcbypain" height="30" width="40" /></a>
 </p>
