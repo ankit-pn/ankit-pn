@@ -6,6 +6,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+  [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-green?style=flat-square&logo=Manjaro)](https://manjaro.org)
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+  [![OS:Android12](https://img.shields.io/badge/OS-Android_12-green?style=flat-square&logo=android)](https://www.android.com/)
+  
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+  [![IDE:IDEA](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=VisualStudio)](https://visualstudio.microsoft.com)
+
+  [![email](https://img.shields.io/badge/Email-ahujadivyam@gmail.com-red?style=flat-square&logo=gmail)](mailto:ahujadivyam@gmail.com)
+  [![Gist.GitHub:DivyamAhuja](https://img.shields.io/badge/Gist-DivyamAhuja-black?style=flat-square&logo=GitHub)](https://gist.github.com/DivyamAhuja)
+
 <a href="https://www.leetcode.com/lcbypain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lcbypain" height="30" width="40" /></a>
 </p>
 
