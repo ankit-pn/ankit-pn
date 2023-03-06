@@ -7,13 +7,10 @@
 
 <p align="left">
 
-
-  [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-green?style=flat-square&logo=Manjaro)](https://manjaro.org)
   [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Android12](https://img.shields.io/badge/OS-Android_12-green?style=flat-square&logo=android)](https://www.android.com/)
+
   
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-  [![IDE:IDEA](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=VisualStudio)](https://visualstudio.microsoft.com)
 
   [![email](https://img.shields.io/badge/Email-miankitsingh@gmail.com-red?style=flat-square&logo=gmail)](mailto:miankitsingh@gmail.com)
 <h3 align="left">Connect with me:</h3>
