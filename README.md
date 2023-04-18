@@ -1,5 +1,5 @@
 ## Hi,  I'm Ankit Kumar!
-### 🎓 A CSE Undergraduate at MANIT Bhopal
+### 🎓 A prefinal year student at MANIT Bhopal
 ![profile count](https://komarev.com/ghpvc/?username=ankit-pn&color=green)&nbsp;
 
 <p align="left"> <a
